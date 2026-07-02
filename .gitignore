@@ -177,6 +177,22 @@ dmypy.json
 
 # pytype static type analyzer
 .pytype/
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+
+.DS_Store
+
+Thumbs.db
+
+venv/
+env/
+
+.idea/
+.vscode/
+
+*.log
 
 # Cython debug symbols
 cython_debug/
